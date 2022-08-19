@@ -6,5 +6,3 @@ list of students
 3. Santiago
 4. Arturo
 6. Camila
-7. Arturo
-
