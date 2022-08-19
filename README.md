@@ -9,3 +9,5 @@ list of students
 7. Arturo
 8. Samantha
 10. Andrea
+11. Alex
+12. Luiis
