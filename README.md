@@ -5,3 +5,6 @@ list of students
 2. Carla
 3. Santiago
 4. Arturo
+5. Valerie
+6. Camila
+7. Arturo
