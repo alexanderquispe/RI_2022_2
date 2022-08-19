@@ -7,7 +7,4 @@ list of students
 4. Arturo
 6. Camila
 7. Arturo
-8. Samantha
-10. Andrea
-11. Alex
-12. Luiis
+
